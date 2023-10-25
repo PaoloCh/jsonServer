@@ -163,15 +163,6 @@
       "rating": 4.7,
       "duration": 4,
       "date": " "
-    },
-    {
-      "name": "Mircrocurse 10: Hydroponics and Technology: Automation and Remote",
-      "duration": "3",
-      "dateCreated": "2023-10-21T05:00:00.000Z",
-      "price": 50.99,
-      "image": "https://cdn.discordapp.com/attachments/1148057148522233868/1165484862858342420/acabar_con_el_hambre_mundial_es_posible_con_la_hidroponia_214_0_600.jpg?ex=6547055c&is=6534905c&hm=54c08361486181dd4547139d042c568db71859b6fdf2cc26627210f8f7bd4c7d&",
-      "description": "This course focuses on the application of technology in hydroponics. Learn to automate and remotely control your hydroponic systems, optimizing efficiency and performance.",
-      "id": 10
     }
   ],
   "posts": [
@@ -191,5 +182,27 @@
         "negocios"
       ]
     },
+    {
+      "id": 2,
+      "title": "Cultivo de Tomate en Invernadero",
+      "author": "Paolo Checa",
+      "date": "2021-07-01",
+      "image": "https://media.discordapp.net/attachments/1148057148522233868/1154875355967004795/pexels-dima-valkov-6211616_1_3.png",
+      "description": "Descripción 2",
+      "views": "100",
+      "likes": "50",
+      "comments": "30",
+      "tags": [
+        "agricultura",
+        "ferias",
+        "negocios"
+      ]
+    }
+  ],
+  "trends": [
+    "Oportunidades de Negocios en Ferias Agricolas",
+    "Cultivo de Tomate en Invernadero",
+    "Iniciando en la Hidroponía: Consejos para Principiantes",
+    "Iniciando en la Hidroponía: Consejos para Principiantes"
   ]
 }
