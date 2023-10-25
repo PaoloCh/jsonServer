@@ -191,21 +191,5 @@
         "negocios"
       ]
     },
-    {
-      "id": 2,
-      "title": "Cultivo de Tomate en Invernadero",
-      "author": "Paolo Checa",
-      "date": "2021-07-01",
-      "image": "https://media.discordapp.net/attachments/1148057148522233868/1154875355967004795/pexels-dima-valkov-6211616_1_3.png",
-      "description": "Descripción 2",
-      "views": "100",
-      "likes": "50",
-      "comments": "30",
-      "tags": [
-        "agricultura",
-        "ferias",
-        "negocios"
-      ]
-    }
   ]
 }
