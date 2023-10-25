@@ -63,14 +63,6 @@
       "description": "Aprende de la mano de los expertos la jardinería interior a tu hogar.",
       "price": 39.99,
       "rating": 5
-    },
-    {
-      "id": 9,
-      "name": "Hierbas Frescas",
-      "image": "https://cdn.discordapp.com/attachments/1148057148522233868/1155527243972497478/curso9.png",
-      "description": "Aprende a cultivar tus propias hierbas frescas en casa con este curso fácil y práctico. Descubre los secretos de la hidroponía y cómo aplicarlos en tu hogar para obtener alimentos frescos y saludables. Con instrucciones detalladas y materiales fáciles de conseguir, este curso es perfecto para cualquier persona interesada en la jardinería en casa.",
-      "price": 39.95,
-      "rating": 4.7
     }
   ],
   "Allcourses": [
